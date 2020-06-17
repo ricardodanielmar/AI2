@@ -1,4 +1,4 @@
 # AI2
 
 
-git clone 
+git clone https://github.com/ricardodanielmar/AI2.git
