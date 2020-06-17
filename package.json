@@ -1,0 +1,25 @@
+{
+  "name": "ai2",
+  "version": "1.0.0",
+  "description": "TrabalhoAI2",
+  "main": "index.js",
+  "scripts": {
+    "test": "testAI2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ricardodanielmar/AI2.git"
+  },
+  "keywords": [
+    "AI2"
+  ],
+  "author": "Pint",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ricardodanielmar/AI2/issues"
+  },
+  "homepage": "https://github.com/ricardodanielmar/AI2#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
